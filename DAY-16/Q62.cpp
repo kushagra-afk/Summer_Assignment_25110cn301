@@ -2,7 +2,7 @@
 
 #include <iostream>
 #include <vector>
-using namespace std;
+using namespace std; // i used vector here because (int arr[n]) was giving erroe(only constants allowed, and vector is also flexible as it stores memory dynamically.
 
 int main() {
     int n ;
