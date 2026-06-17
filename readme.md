@@ -85,9 +85,9 @@ This isn't just an assignment to me — it's a **commitment to myself** to grow 
 
 ## 📌 Notes
 
-- Each day's solutions are in separate `.cpp` files named `dayXX.cpp`
-- All programs use a **menu-driven main function** for clean navigation
-- Inline comments explain the purpose of standard library functions used
+- Each day's solutions are in separate `.cpp` files named `DAY-XX.cpp` which are further accumukated in wwek wise folders `WEEK-X.cpp`.
+- All programs use a **menu-driven main function** for clean navigation .
+- Inline comments explain the purpose of standard library functions used .
 
 ---
 
