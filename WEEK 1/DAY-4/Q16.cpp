@@ -6,16 +6,17 @@
 using namespace std;
 
 int main() {
-    int a, b;
+    int lower, upper;
 
-    cout << "Enter the range (a,b) : ";
-    cin >> a >> b;
+    cout << "Enter lower limit : ";
+    cin >> lower;
 
-    cout << "Armstrong numbers in the range " << a << "and" << b << " are: " << endl;
+    cout << "Enter upper limit : ";
+    cin >> upper;
 
-    for (int i=a; i<=b; i++) {
-        int sum=0, rem;
-        int temp=i;
+    cout << "Armstrong numbers between " << lower << " and " << upper << " are : ";
+    for (int i=lower; i<=upper; i++) {
+        int sum=0, rem, temp=i;
         int digits = to_string(i).length();
 
         while(temp>0) {
@@ -25,7 +26,7 @@ int main() {
         }
 
         if (sum == i) {
-            cout << temp << " is an Armstrong number" << endl;
+            cout << i << " ";
         }
     }
 
