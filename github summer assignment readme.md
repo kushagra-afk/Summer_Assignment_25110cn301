@@ -35,45 +35,20 @@ All solutions are written in **C++** and committed daily to track progress and b
 
 This isn't just an assignment to me — it's a **commitment to myself** to grow as a developer every single day of this summer. Here's what I'm working towards:
 
----
 
 ### 🧠 Learn & Understand — Not Just Copy
 
-- I want to **truly understand** every concept I code, not just get the output right
-- Each problem is an opportunity to ask *"why does this work?"* — not just *"does this compile?"*
-- Writing clean, well-commented code so I can revisit and learn from my own solutions
-
----
 
 ### 💡 Apply Knowledge to Solve Real Problems
 
-- Moving beyond syntax — learning how to **think algorithmically** and break down any problem into logical steps
-- Practicing problems that mirror real **placement test questions** from companies like TCS, Amazon, Microsoft, and more
-- Building mini applications that simulate **real-world systems** — from ATMs to library management — so I understand how code translates to actual software
-
----
 
 ### 🔁 Build the Habit of Consistency
 
-- **4 questions, every single day, for 30 days** — no skipping, no shortcuts
-- Daily GitHub commits to create a visible, honest record of my progress
-- Treating this like a professional routine — because consistency is what separates good developers from great ones
-
----
 
 ### 📈 Grow from Basics to Confidence
 
-- Starting from fundamental math programs and working all the way up to sorting algorithms, matrix operations, string manipulation, and full management systems
-- By Day 30, I want to look back at Day 1 and genuinely feel the growth
-- Every topic covered is a stepping stone toward cracking **technical interviews** and **competitive programming**
-
----
 
 ### 🤝 Build a Portfolio Worth Showing
-
-- This repository is **public proof** of discipline and dedication
-- A recruiter, a senior developer, or a future teammate should be able to open this repo and immediately see someone who takes their craft seriously
-- Clean commits, meaningful code, and a structured learning path — all visible right here
 
 ---
 
@@ -86,31 +61,13 @@ This isn't just an assignment to me — it's a **commitment to myself** to grow 
 | **Microsoft, Adobe, Paytm** | Strings, patterns, character operations |
 | **TCS, Accenture, Cognizant** | Applications, management systems, menu-driven programs |
 
----
-
-## 🚀 How to Run
-
-```bash
-# Clone the repository
-git clone https://github.com/<your-username>/cpp-summer-assignment.git
-
-# Navigate to the folder
-cd cpp-summer-assignment
-
-# Compile a file
-g++ dayXX.cpp -o output
-
-# Run the executable
-./output
 ```
-
----
 
 ## 📈 Progress Tracker
 
 | Week | Days | Status |
 |---|---|---|
-| Week 1 | Day 1 – Day 7 | 🔄 In Progress |
+| Week 1 | Day 1 – Day 7 | 🔄 COMPLETED |
 | Week 2 | Day 8 – Day 14 | ⏳ Upcoming |
 | Week 3 | Day 15 – Day 21 | ⏳ Upcoming |
 | Week 4 | Day 22 – Day 28 | ⏳ Upcoming |
