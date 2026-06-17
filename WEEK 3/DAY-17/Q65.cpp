@@ -37,7 +37,7 @@ int main() {
     }
     cout << endl;
 
-    vector<int> merged(m+n);
+    vector<int> merged(m+n);  // merged array should have size m+n , so every element of both arrays can be added.
     for (int i=0; i<m; i++) {
         merged[i] = arr1[i];
     } 
