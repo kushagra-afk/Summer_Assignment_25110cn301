@@ -61,7 +61,7 @@ This isn't just an assignment to me — it's a **commitment to myself** to grow 
 | **Microsoft, Adobe, Paytm** | Strings, patterns, character operations |
 | **TCS, Accenture, Cognizant** | Applications, management systems, menu-driven programs |
 
-```
+---
 
 ## 📈 Progress Tracker
 
