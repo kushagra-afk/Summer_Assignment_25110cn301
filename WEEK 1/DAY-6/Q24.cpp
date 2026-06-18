@@ -17,5 +17,6 @@ int main() {
 
     cout << x << "^" << n << " = " << result << endl;
 
+
     return 0;
 }
