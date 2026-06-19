@@ -67,8 +67,8 @@ This isn't just an assignment to me — it's a **commitment to myself** to grow 
 
 | Week | Days | Status |
 |---|---|---|
-| Week 1 | Day 1 – Day 7 | 🔄 COMPLETED |
-| Week 2 | Day 8 – Day 14 | ⏳ Upcoming |
+| Week 1 | Day 1 – Day 7 | ✅ COMPLETED |
+| Week 2 | Day 8 – Day 14 | ✅ COMPLETED |
 | Week 3 | Day 15 – Day 21 | ⏳ Upcoming |
 | Week 4 | Day 22 – Day 28 | ⏳ Upcoming |
 | Final | Day 29 – Day 30 | ⏳ Upcoming |
@@ -85,7 +85,7 @@ This isn't just an assignment to me — it's a **commitment to myself** to grow 
 
 ## 📌 Notes
 
-- Each day's solutions are in separate `.cpp` files named `DAY-XX.cpp` which are further accumukated in wwek wise folders `WEEK-X.cpp`.
+- Each day's solutions are in separate `.cpp` files named `DAY-XX.cpp` which are further accumulated in week wise folders `WEEK-X.cpp`.
 - All programs use a **menu-driven main function** for clean navigation .
 - Inline comments explain the purpose of standard library functions used .
 
