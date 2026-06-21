@@ -69,7 +69,7 @@ This isn't just an assignment to me — it's a **commitment to myself** to grow 
 |---|---|---|
 | Week 1 | Day 1 – Day 7 | ✅ COMPLETED |
 | Week 2 | Day 8 – Day 14 | ✅ COMPLETED |
-| Week 3 | Day 15 – Day 21 | ⏳ Upcoming |
+| Week 3 | Day 15 – Day 21 | ✅ COMPLETED |
 | Week 4 | Day 22 – Day 28 | ⏳ Upcoming |
 | Final | Day 29 – Day 30 | ⏳ Upcoming |
 
