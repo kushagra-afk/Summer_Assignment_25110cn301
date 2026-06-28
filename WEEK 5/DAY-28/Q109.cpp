@@ -1,3 +1,5 @@
+//  Library management system
+
 #include <iostream>
 #include <vector>
 #include <string>
@@ -34,9 +36,9 @@ void displayBooks(const vector<Book> &library) {
     cout << "\nLibrary Catalog:\n";
     for (const auto &book : library) {
         cout << "ID: " << book.id
-                  << " | Title: " << book.title
-                  << " | Author: " << book.author
-                  << " | " << (book.available ? "Available" : "Borrowed") << '\n';
+                << " | Title: " << book.title
+                << " | Author: " << book.author
+                << " | " << (book.available ? "Available" : "Borrowed") << '\n';
     }
 }
 
